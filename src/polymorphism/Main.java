@@ -4,7 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Binatang [] daftarBintang = {
             new Kucing(),
-            new Burung()
+            new Burung(),
+            new Ikan()
         };
         System.out.println("Binatang diminta untuk bergerak :");
         System.out.println("____________________________________________");
